@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1038926794985",
+    "project_id": "tailor-ai-37522",
+    "storage_bucket": "tailor-ai-37522.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038926794985:android:b60b65fb91a5d261716078",
+        "android_client_info": {
+          "package_name": "com.example.tailor_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCfnEMVhy925BpYUJerMK5zr_5vND1Ojs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
